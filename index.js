@@ -15,7 +15,7 @@ for (const wsFolder of wsFolders) {
 // Get folder with most items in it
 const wsFolder = Object.keys(wsFolderMap).reduce((a, b) => wsFolderMap[a] > wsFolderMap[b] ? a : b);
 
-// Create the shorcut
+// Create the shortcut
 const wsDir = `${dir}/${wsFolder}/app/WhatsApp.exe`;
 create(
   "%APPDATA%/Microsoft/Windows/Start Menu/Programs/WhatsApp/WhatsApp.lnk",
