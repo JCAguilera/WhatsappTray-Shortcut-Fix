@@ -1,3 +1,7 @@
+> [!WARNING]  
+> [EN] According to [this issue](https://github.com/JCAguilera/WhatsappTray-Shortcut-Fix/issues/1), this fix stopped working with new versions of WhatsApp.<br>
+> [ES] De acuerdo a [esta issue](https://github.com/JCAguilera/WhatsappTray-Shortcut-Fix/issues/1), esta solución dejó de funcionar con versiones nuevas de WhatsApp.
+
 # [EN] WhatsappTray-Shortcut-Fix
 Script that fixes the shortcut problem with WhatsappTray when downloading Whatsapp from Microsoft Store.
 
